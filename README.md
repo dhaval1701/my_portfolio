@@ -1,2 +1,2 @@
 # my_portfolio
-This is repo person portfolio website 
+This is repo personal portfolio website 
